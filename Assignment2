@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T01:04:01.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="jMQI3l7pkvwWkEIqAigP" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T01:06:33.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="jHdlhRCz3HH8MhEBXT8H" version="16.5.6" type="github">
   <diagram id="HlDOWkZck6FBhwPOIJ0D" name="Page-1">
     <mxGraphModel dx="1186" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,19 @@
         <mxCell id="PoAeM8rB0CDoyLQEJ2gO-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PoAeM8rB0CDoyLQEJ2gO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoAeM8rB0CDoyLQEJ2gO-6" target="PoAeM8rB0CDoyLQEJ2gO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoAeM8rB0CDoyLQEJ2gO-10" value="requestCheckOut" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PoAeM8rB0CDoyLQEJ2gO-9">
+          <mxGeometry x="-0.1636" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PoAeM8rB0CDoyLQEJ2gO-6" value="Checkout item" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="185" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoAeM8rB0CDoyLQEJ2gO-8" value="State1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
