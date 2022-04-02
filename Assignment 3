@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T22:32:34.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="MgJGqTSXxJYgkZdiUuh8" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T22:33:11.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="33AVUUXmnadFG28HlDwK" version="17.4.0" type="github">
   <diagram id="9PXT9M6zq37imbPaR99M" name="Page-1">
     <mxGraphModel dx="818" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,10 @@
         <mxCell id="3PwdYyvSZugTOb6NpLho-1" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt ; line-height: 17.12px ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Checkout clerk&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PwdYyvSZugTOb6NpLho-8" value="requestCheckOut" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.214;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="3PwdYyvSZugTOb6NpLho-4" target="3PwdYyvSZugTOb6NpLho-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3PwdYyvSZugTOb6NpLho-8" value="requestCheckOut" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.214;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=0;exitX=1.097;exitY=0.141;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3PwdYyvSZugTOb6NpLho-4" target="3PwdYyvSZugTOb6NpLho-6">
+          <mxGeometry x="0.0978" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3PwdYyvSZugTOb6NpLho-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="120" y="330" width="10" height="80" as="geometry" />
